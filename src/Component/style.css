@@ -1,0 +1,22 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.headingCounter{
+    font-size: "48px";
+}
+
+.buttonContainer{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonStyle{
+padding: 10px;
+font-weight: 800;
+}
